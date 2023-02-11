@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4440a9d5-2749-4e0d-90de-95367fec2d9e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/array.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/bestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/bestTimeToBuyAndSellStock.java" afterDir="false" />
-    </list>
+    <list default="true" id="4440a9d5-2749-4e0d-90de-95367fec2d9e" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,7 +73,7 @@
       <updated>1617593606400</updated>
       <workItem from="1617593607646" duration="94000" />
       <workItem from="1676084483300" duration="4088000" />
-      <workItem from="1676126693831" duration="93000" />
+      <workItem from="1676126693831" duration="201000" />
     </task>
     <servers />
   </component>
